@@ -19,11 +19,11 @@ A **suspension bridge** uses **cables suspended between towers** to hold up the 
 
 ## 🖼️ Screenshots
 
-### 🔦 Render 1: Bright Daylight  Lighting
-![Day Render](Autocad_Suspension_Bridge.png)
-
-### 🌤️ Render 2: Cinematic Night Setup
+### 🌤️ Render 1: Cinematic Night Setup
 ![Dark Render](Bridge_Render.png)
+
+### 🔦 Render 2: Bright Daylight  Lighting
+![Day Render](Autocad_Suspension_Bridge.png)
 
 ---
 
